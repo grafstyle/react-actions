@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Big Brrr
+          Welcome to the Richest
         </h1>
         <p>
           SHIESTY SEASON.
